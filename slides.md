@@ -18,11 +18,28 @@ mdc: true
 duration: 35min
 ---
 
-# ES 2025, ES 2026, TS 5.9
+# New to your browsers and dev environment
 
 
 <!--
 The last comment block of each slide will be treated as slide notes. It will be visible and editable in Presenter Mode along with the slide. [Read more in the docs](https://sli.dev/guide/syntax.html#notes)
+-->
+
+---
+layout: image-right
+image: /lego-me.png
+---
+# Hello
+
+I'm Justin M.
+
+- Adobe Express
+- 10+ years 
+
+<!--
+
+I work on Adobe Express, which is a pretty cool product if you haven't tried it yet.
+
 -->
 
 ---
@@ -32,3 +49,11 @@ src: ./pages/standards-process.md
 ---
 src: ./pages/es25.md
 ---
+
+---
+src: ./pages/typescript.md
+---
+
+---
+
+# Thank you
